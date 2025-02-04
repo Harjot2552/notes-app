@@ -9,6 +9,10 @@ function showNotes() {
 
 showNotes();
 
+function updateStorage() {
+    localStorage.setItem("notes", notesContainer.innerHTML);
+}
+
 
 createBtn.addEventListener("click", () => {
     let inputBox = document.createElement("p");
