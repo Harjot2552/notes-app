@@ -31,7 +31,7 @@ A simple yet powerful **Notes App** built using **HTML**, **CSS**, and **JavaScr
 ## 📦 Installation  
 1. Clone this repository:  
    ```bash  
-   git clone <repo-url>  
+   git clone <https://github.com/Harjot2552/notes-app>  
    ```  
 2. Open the `index.html` file in your browser.  
 
